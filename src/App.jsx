@@ -779,9 +779,9 @@ const Contact = () => {
                   <div>
                     <h4 className="text-neutral-500 uppercase text-sm tracking-wider mb-4">Socials</h4>
                     <ul className="space-y-2">
-                      <li><a href="https://x.com/Raging_Wolfie" className="text-xl hover:text-neutral-400 transition-colors">Twitter</a></li>
-                      <li><a href="https://www.linkedin.com/in/abhinav-yadav-dev" className="text-xl hover:text-neutral-400 transition-colors">LinkedIn</a></li>
-                      <li><a href="https://github.com/IRONmanAbhi" className="text-xl hover:text-neutral-400 transition-colors">Github</a></li>
+                      <li><a href="https://x.com/Raging_Wolfie" target="_blank" className="text-xl hover:text-neutral-400 transition-colors">Twitter</a></li>
+                      <li><a href="https://www.linkedin.com/in/abhinav-yadav-dev" target="_blank" className="text-xl hover:text-neutral-400 transition-colors">LinkedIn</a></li>
+                      <li><a href="https://github.com/IRONmanAbhi" target="_blank" className="text-xl hover:text-neutral-400 transition-colors">Github</a></li>
                     </ul>
                   </div>
                   <div>
