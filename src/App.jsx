@@ -186,6 +186,7 @@ const Hero = () => {
 const SocialLink = ({ href, icon }) => (
   <a
     href={href}
+    target="_blank"
     className="w-10 h-10 rounded-full border border-white/20 flex items-center justify-center text-white hover:bg-white hover:text-black hover:border-transparent transition-all duration-300"
   >
     {icon}
