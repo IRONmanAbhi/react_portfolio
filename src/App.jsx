@@ -719,7 +719,16 @@ const Contact = () => {
             </Reveal>
 
             <Reveal delay={200}>
-              <a href="mailto:cyabhinavyadav1@gmail.com" className="inline-block text-3xl md:text-5xl lg:text-6xl font-bold hover:text-neutral-300 transition-colors border-b-2 border-white/20 pb-2 mb-16 hover:border-white">
+              <a
+                href="mailto:cyabhinavyadav1@gmail.com"
+                className="inline-block
+                text-xl sm:text-2xl md:text-4xl lg:text-5xl
+                font-bold
+                hover:text-neutral-300
+                transition-colors
+                border-b-2 border-white/20
+                pb-2 mb-16
+                hover:border-white">
                 cyabhinavyadav1@gmail.com
               </a>
             </Reveal>
