@@ -23,7 +23,7 @@ import {
   Shield,
 } from 'lucide-react';
 
-import ProfilePicture from "./assets/prof.jpeg"
+import ProfilePicture from "./assets/Abhinav-Yadav.jpeg"
 
 
 const useOnScreen = (options) => {
